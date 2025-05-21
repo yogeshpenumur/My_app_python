@@ -5,5 +5,5 @@ set -e
 docker pull yogeshpenumur/my-app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 /yogeshpenumur/my-app
+docker run -d -p 5000:5000 yogeshpenumur/my-app
 
